@@ -1,5 +1,6 @@
 #man {
-    margin: 50px;
+    margin-left: 40px;
+    margin-top: 15px;
 }
 
 #head {
@@ -47,3 +48,38 @@
     margin-left: 5px;
     float: left;
 }
+
+#comment {
+    background: whitesmoke;
+    margin-left: 95px;
+    margin-bottom: -5px;
+    height: 20px;
+    width: 45px;
+    border: solid;
+    border-color: rgb(131, 129, 129);
+    border-radius: 46px;
+}
+
+#comment p {
+    margin-top: 1px;
+    margin-left: 4px;
+}
+
+#line-1 {
+    background: rgb(131, 129, 129);
+    height: 13px;
+    width: 3px;
+    margin-top: -26px;
+    margin-left: -2.5px;
+}
+
+#line-2 {
+    background: rgb(131, 129, 129);
+    height: 2.5px;
+    width: 13px;
+    margin-top: -2px;
+    margin-left: -2px;
+}
+
+
+
