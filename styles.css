@@ -1,0 +1,49 @@
+#man {
+    margin: 50px;
+}
+
+#head {
+    background: wheat;
+    height: 20px;
+    width: 20px;
+    margin-left: 2.4px;
+}
+
+#body {
+    background: red;
+    height: 30px;
+    width: 25px;
+}
+
+#left-arm {
+    background: wheat;
+    height: 10px;
+    width: 10px;
+    margin-left: -30px;
+    padding-left: 20px;
+    float: left;
+}
+
+#right-arm {
+    background: wheat;
+    height: 10px;
+    width: 10px;
+    margin-left: 25px;
+    padding-left: 20px;
+    float: left;
+}
+
+#left-leg {
+    background: blue;
+    height: 30px;
+    width: 10px;
+    float: left;
+}
+
+#right-leg {
+    background: blue;
+    height: 30px;
+    width: 10px;
+    margin-left: 5px;
+    float: left;
+}
