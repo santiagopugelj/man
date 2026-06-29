@@ -1,6 +1,10 @@
+body {
+    background-color: lightskyblue;
+}
+
 #man {
     margin-left: 40px;
-    margin-top: 15px;
+    margin-top: 400px;
 }
 
 #head {
@@ -51,7 +55,7 @@
 
 #comment {
     background: whitesmoke;
-    margin-left: 95px;
+    margin-left: 40px;
     margin-bottom: -5px;
     height: 20px;
     width: 45px;
@@ -70,7 +74,7 @@
     height: 13px;
     width: 3px;
     margin-top: -26px;
-    margin-left: -2.5px;
+    margin-left: -3px;
 }
 
 #line-2 {
@@ -79,6 +83,14 @@
     width: 13px;
     margin-top: -2px;
     margin-left: -2px;
+}
+
+#floor {
+    background: green;
+    width: 1300px;
+    height: 100px;
+    margin-top: 25px;
+    margin-left: -10px;
 }
 
 
